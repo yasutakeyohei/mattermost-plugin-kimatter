@@ -1,6 +1,6 @@
 {
     "id": "com.yasutakeyohei.mattermost-plugin-kimatter",
-    "name": "Plugin Kimatter",
+    "name": "Kimatter",
     "description": "This is a mattermost plugin for multiple users to coordinate their schedules.",
     "homepage_url": "https://github.com/yasutakeyohei/mattermost-plugin-kimatter",
     "support_url": "https://github.com/yasutakeyohei/mattermost-plugin-kimatter/issues",
